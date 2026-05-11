@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://github.com/ationos/ationos/blob/main/banner.jpg?raw=true" 
+  <img <img src="https://raw.githubusercontent.com/ationos/ationos/main/banner.jpg"
+     alt="ΔтισиOS Banner"
+     width="100%"
+     style="border-radius: 12px; margin-bottom: 20px;" /> 
        alt="ΔтισиOS Banner" 
        width="100%" 
        style="border-radius: 12px; margin-bottom: 20px;" />
