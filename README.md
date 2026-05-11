@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/ationos/ationos/blob/main/banner.png?raw=true" 
+  <img src="https://github.com/ationos/ationos/blob/main/banner.jpg?raw=true" 
        alt="ΔтισиOS Banner" 
        width="100%" 
        style="border-radius: 12px; margin-bottom: 20px;" />
-  
+       
   <h1>ΔтισиOS™</h1>
   <p><strong>Next-generation operating system</strong></p>
 </div>
